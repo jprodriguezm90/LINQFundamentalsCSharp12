@@ -1,0 +1,38 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jprod\\source\\repos\\LINQFundamentalsCSharp12\\linq-fundamentals-csharp-12\\linq-fundamentals-csharp-12\\06-Single\\Start\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B36191D-296A-48FC-8EEB-04ED5A740175}|LINQSamples.csproj|c:\\users\\jprod\\source\\repos\\linqfundamentalscsharp12\\linq-fundamentals-csharp-12\\linq-fundamentals-csharp-12\\06-single\\start\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B36191D-296A-48FC-8EEB-04ED5A740175}|LINQSamples.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jprod\\source\\repos\\LINQFundamentalsCSharp12\\linq-fundamentals-csharp-12\\linq-fundamentals-csharp-12\\06-Single\\Start\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jprod\\source\\repos\\LINQFundamentalsCSharp12\\linq-fundamentals-csharp-12\\linq-fundamentals-csharp-12\\06-Single\\Start\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T03:07:18.313Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

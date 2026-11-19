@@ -1,0 +1,13 @@
+C:\Users\jprod\source\repos\LINQFundamentalsCSharp12\linq-fundamentals-csharp-12\linq-fundamentals-csharp-12\LINQSamples.DataLayer\bin\Debug\net8.0\LINQSamples.DataLayer.deps.json
+C:\Users\jprod\source\repos\LINQFundamentalsCSharp12\linq-fundamentals-csharp-12\linq-fundamentals-csharp-12\LINQSamples.DataLayer\bin\Debug\net8.0\LINQSamples.DataLayer.dll
+C:\Users\jprod\source\repos\LINQFundamentalsCSharp12\linq-fundamentals-csharp-12\linq-fundamentals-csharp-12\LINQSamples.DataLayer\bin\Debug\net8.0\LINQSamples.DataLayer.pdb
+C:\Users\jprod\source\repos\LINQFundamentalsCSharp12\linq-fundamentals-csharp-12\linq-fundamentals-csharp-12\LINQSamples.DataLayer\obj\Debug\net8.0\LINQSamples.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jprod\source\repos\LINQFundamentalsCSharp12\linq-fundamentals-csharp-12\linq-fundamentals-csharp-12\LINQSamples.DataLayer\obj\Debug\net8.0\LINQSamples.DataLayer.AssemblyInfoInputs.cache
+C:\Users\jprod\source\repos\LINQFundamentalsCSharp12\linq-fundamentals-csharp-12\linq-fundamentals-csharp-12\LINQSamples.DataLayer\obj\Debug\net8.0\LINQSamples.DataLayer.AssemblyInfo.cs
+C:\Users\jprod\source\repos\LINQFundamentalsCSharp12\linq-fundamentals-csharp-12\linq-fundamentals-csharp-12\LINQSamples.DataLayer\obj\Debug\net8.0\LINQSamples.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\jprod\source\repos\LINQFundamentalsCSharp12\linq-fundamentals-csharp-12\linq-fundamentals-csharp-12\LINQSamples.DataLayer\obj\Debug\net8.0\LINQSamples.DataLayer.sourcelink.json
+C:\Users\jprod\source\repos\LINQFundamentalsCSharp12\linq-fundamentals-csharp-12\linq-fundamentals-csharp-12\LINQSamples.DataLayer\obj\Debug\net8.0\LINQSamples.DataLayer.dll
+C:\Users\jprod\source\repos\LINQFundamentalsCSharp12\linq-fundamentals-csharp-12\linq-fundamentals-csharp-12\LINQSamples.DataLayer\obj\Debug\net8.0\refint\LINQSamples.DataLayer.dll
+C:\Users\jprod\source\repos\LINQFundamentalsCSharp12\linq-fundamentals-csharp-12\linq-fundamentals-csharp-12\LINQSamples.DataLayer\obj\Debug\net8.0\LINQSamples.DataLayer.pdb
+C:\Users\jprod\source\repos\LINQFundamentalsCSharp12\linq-fundamentals-csharp-12\linq-fundamentals-csharp-12\LINQSamples.DataLayer\obj\Debug\net8.0\ref\LINQSamples.DataLayer.dll
+C:\Users\jprod\source\repos\LINQFundamentalsCSharp12\linq-fundamentals-csharp-12\linq-fundamentals-csharp-12\LINQSamples.DataLayer\obj\Debug\net8.0\LINQSamp.F64C3206.Up2Date

@@ -15,7 +15,9 @@
       Product value = null;
 
       // Write Query Syntax Here
-
+      value = (from p in products
+                select p
+              ).First();
       // Test the exception handling
 
       return value;
@@ -35,7 +37,7 @@
       Product value = null;
 
       // Write Method Syntax Here
-      
+      value = products.First();
       return value;
     }
     #endregion
@@ -53,7 +55,7 @@
       Product value = null;
 
       // Write Query Syntax Here
-
+      value = (from p in products select p).FirstOrDefault();
       // Test the exception handling
 
       return value;
