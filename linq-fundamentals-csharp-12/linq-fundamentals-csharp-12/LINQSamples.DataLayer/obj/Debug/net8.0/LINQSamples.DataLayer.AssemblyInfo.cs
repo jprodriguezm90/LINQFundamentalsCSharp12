@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LINQSamples.DataLayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30263b1aad291b716630ca050a29bd17e4a87b3b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb4aeff71b0f5085cf7e410b91b74ad0a4a6ffcf")]
 [assembly: System.Reflection.AssemblyProductAttribute("LINQSamples.DataLayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LINQSamples.DataLayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

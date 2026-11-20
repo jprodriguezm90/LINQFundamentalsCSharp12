@@ -12,6 +12,7 @@
       List<Product> list = new();
 
       // Write Query Syntax Here
+      list = (from p in products orderby p.Name select p).Take(5).ToList();
       
 
       return list;
@@ -28,6 +29,7 @@
       List<Product> list = new();
 
       // Write Query Syntax Here
+      list = products.OrderBy(p => p.Name).Take(5).ToList();
      
 
       return list;
@@ -44,6 +46,7 @@
       List<Product> list = new();
 
       // Write Query Syntax Here
+      list = (from p in products orderby p.Name select p).Take(5..8).ToList();
 
      
       return list;
@@ -60,6 +63,8 @@
       List<Product> list = new();
 
       // Write Query Syntax Here
+      list = products.OrderBy(p => p.Name).Take(5..8).ToList();
+      //5..8 10..(begin in the 10 to last) ..4 (first 4 excluding 4) ^5..^2 backwards so end of list
       
 
       return list;
@@ -76,7 +81,8 @@
       List<Product> list = new();
 
       // Write Query Syntax Here
-      
+      list = (from p in products orderby p.Name select p).TakeWhile(p => p.Name.StartsWith("A")).ToList();
+
 
       return list;
     }
@@ -92,7 +98,7 @@
       List<Product> list = new();
 
       // Write Method Syntax Here
-     
+     list = products.OrderBy(p => p.Name).TakeWhile(p => p.Name.StartsWith("W")).ToList();
 
       return list;
     }
@@ -108,7 +114,7 @@
       List<Product> list = new();
 
       // Write Query Syntax Here
-      
+      list = (from p in products orderby p.Name select p).Skip(30).ToList();
 
       return list;
     }
@@ -124,7 +130,8 @@
       List<Product> list = new();
 
       // Write Method Syntax Here
-      
+      //list = products.OrderBy(p => p.Name).Skip(30).ToList();
+      list = products.OrderBy(p => p.Name).Skip(5).Take(5).ToList();
 
       return list;
     }
@@ -140,6 +147,7 @@
       List<Product> list = new();
 
       // Write Query Syntax Here
+      list = (from p in products orderby p.Name select p).SkipWhile(p => p.Name.StartsWith("A")).ToList();
       
 
       return list;
@@ -156,7 +164,7 @@
       List<Product> list = new();
 
       // Write Method Syntax Here
-     
+      list = products.OrderBy(p => p.Name).SkipWhile(p => p.Name.StartsWith("A")).ToList();
 
       return list;
     }
@@ -173,7 +181,8 @@
       List<string> list = new();
 
       // Write Query Syntax Here
-      
+      //list = (from p in products orderby p.Color select p.Color).Distinct().ToList(); //I think is not efficient to order first
+      list = (from p in products select p.Color).Distinct().OrderBy(p => p).ToList(); 
 
       return list;
     }
@@ -190,7 +199,7 @@
       List<string> list = new();
 
       // Write Method Syntax Here
-      
+      list = products.Select(p => p.Color).Distinct().OrderBy(p => p).ToList();
 
       return list;
     }
@@ -203,6 +212,7 @@
       List<Product> list = new();
 
       // Write Query Syntax Here
+      list = (from p in products select p).DistinctBy(p => p.Color).OrderBy(p => p.Color).ToList(); 
 
 
       return list;
@@ -216,6 +226,7 @@
       List<Product> list = new();
 
       // Write Method Syntax Here
+      list = products.DistinctBy(p => p.Color).OrderBy(p => p.Color).ToList();
 
 
       return list;
@@ -232,7 +243,7 @@
       List<Product[]> list = new();
 
       // Write Query Syntax Here
-      
+      list = (from p in products select p).Chunk(5).ToList(); 
 
       return list;
     }
@@ -248,7 +259,7 @@
       List<Product[]> list = new();
 
       // Write Method Syntax Here
-      
+      list = products.Chunk(5).ToList();
 
       return list;
     }
